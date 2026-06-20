@@ -1,0 +1,10 @@
+{
+  "name": "DriftSpec",
+  "short_name": "DriftSpec",
+  "description": "AI-powered car modification planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E16",
+  "theme_color": "#0A0E16",
+  "icons": []
+}
