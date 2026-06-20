@@ -287,4 +287,4 @@ const styles = {
   chip: { background: "#16161E", border: "1.5px solid #ffffff10", borderRadius: 20, padding: "8px 14px", fontSize: 13, color: "#C0C0D8", cursor: "pointer" },
   chipSel: { background: "#2D7FF918", borderColor: "#2D7FF9", color: "#fff" },
   tag: { fontSize: 12, fontWeight: 600, background: "#ffffff10", borderRadius: 20, padding: "3px 10px", color: "#C0C0D8" },
-};
+  };
